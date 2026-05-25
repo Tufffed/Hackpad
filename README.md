@@ -1,3 +1,5 @@
+<img width="860" height="694" alt="Screenshot 2026-05-25 125119" src="https://github.com/user-attachments/assets/bfd9ac96-ff43-409f-9c61-d9a47d33fb1c" />
+<img width="1499" height="1021" alt="Screenshot 2026-05-25 125015" src="https://github.com/user-attachments/assets/d799263b-55de-4a0d-9d47-b00b77d75cad" />
 # Tuffed's Macropad
 This has 5 MX keys with an additional Rotary Encoder, an OLED display, and RGB.
 

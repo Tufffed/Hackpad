@@ -20,3 +20,20 @@ The case it built with 4 M3 screws and 4 matching HeatPress inserts. The case co
 
 ## Firmware
 For this hackpad, I used QMK to controll it. At the current moment it has a single layer with copy, paste, cut, volume, and mute controlls. As I use the hakpad with more programs I will add more layers depending on my needs (the rotary encoder push switch will be used to toggle).
+
+## Bill of Materials
+| Item | Amt |
+| :--- | :---: |
+| PCB | 1x |
+| Case (top and bottom) | 1x |
+| Seed XIAO RP2040 | 1x |
+| SK+912 MINI-E LED | 11x |
+| EC11 Rotary Encoder | 1x |
+| MX Switch | 2x |
+| 1N4148 Diode | 6x |
+|.91 in OLED Display | 1x |
+| MX compaitble keycaps | 5x |
+| M3x16mm Screw | 7x |
+| M3x5mx4mm Heatpress inserts | 4x |
+
+

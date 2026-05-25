@@ -1,4 +1,4 @@
-# atuffedmacropad
+# QMK
 
 ![atuffedmacropad](imgur.com image replace me!)
 
